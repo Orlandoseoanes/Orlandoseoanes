@@ -54,6 +54,17 @@
   </ul>
 </div>
 
+ <div align="center">
+  <a href="https://github.com/Orlandoseoanes">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Orlandoseoanes&theme=2077" height="150em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orlandoseoanes&theme=2077" height="150em" />
+  </div>
+    
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><p align="center">⚡Activity Graph:</p>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=KennerEspinal&theme=nightowl"/>
+  
+</div>
+
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/orlando-andres-seoanes-oviedo-504398250/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
